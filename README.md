@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Title: A-Mazing
 URL: https://www.youtube.com/watch?v=zBQz5bPfsr4
 Description:
@@ -39,3 +40,7 @@ I'm not a big fan of implementing UI, it's just not my cup of tea and I find it 
 
 ##Conclusion
 In conclusion I think that my project illustrates many of the concepts covered in the course and beyond. I think there is ample room for additional development on a project like this and it could easily become a real website with things like campaign mode, random challenges, seed sharing, daily challenges, in depth leaderboards, user authentication and a billion visual improvements. I also think a hexagonal maze structure would map much nicer to a sphere without distortion and would be a wonderful future implementation. That said time management is also a vital development skill and I picked a scope and stuck to it yielding a workable and interesting demo. As a final note, I have long desired to develop a spherical maze and am greatly amused by it's success. Thank you all for the wonderful course!
+=======
+# Amazing
+A spherical maze generator running on node in Three.js
+>>>>>>> 6c947d40bc91d2d4f953a78a87cfe2e25c042332
