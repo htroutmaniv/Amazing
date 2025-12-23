@@ -2,6 +2,17 @@ Project Title: A-Mazing
 URL: https://www.youtube.com/watch?v=zBQz5bPfsr4
 Description:
 
+##How To run
+In first bash window
+cd client
+npm run dev
+
+In second bash window:
+cd server
+npm run dev
+
+open client in browser at vite specified address
+
 ##Overview
 My project aims to produce spherical labyrinths that can be navigable by a player. I sought to procedurally generate mazes which were
 scalable in complexity, visually interesting, always solvable, and potentially of near infinite variation.
